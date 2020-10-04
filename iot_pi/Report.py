@@ -1,5 +1,6 @@
 import json
 import random
+import time
 
 class Report:
 
